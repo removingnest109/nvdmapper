@@ -1,0 +1,1 @@
+nmap is required for this script to work properly
